@@ -6,6 +6,7 @@ Create a GitHub account
 Step 1: Create a new repository
 Step 2: Add a Readme file
 Step 4: Create a commit with a relevant message
+Step 5: Install git on your local machine
 
 
 
