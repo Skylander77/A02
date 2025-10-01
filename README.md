@@ -1,7 +1,18 @@
 # A02
 
-•	Branch - A copy of the main branch that allows modification without affecting the main branch.
+Git Hub Steps
 
+Create a GitHub account
+Step 1: Create a new repository
+Step 2: Add a Readme file
+Step 4: Create a commit with a relevant message
+
+
+
+
+Definitions
+
+•	Branch - A copy of the main branch that allows modification without affecting the main branch.
 
 •	Clone - clones a local copy of a remote repository.
 
